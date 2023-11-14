@@ -19,4 +19,5 @@ The app needs to be run using the following command:
 The video demo of the app can be obtained from https://drive.google.com/file/d/1sBUvQJCMVglXQa4sK_6z1YMP-7fY79pN/view?usp=sharing
 
 My contribution to the project:
+
 Beini Hu: data preprocessing, visualization, model training and testing on red wine dataset, streamlit data visualization, ternary plots and ml model prediction. 
